@@ -5,6 +5,7 @@ Below is the list of my completed side projects, click on the link to navigate t
 - [MERN Ecommerce Website](https://github.com/sqle157/mern-ecommerce-website)
 - [MERN Note App](https://github.com/sqle157/mern-note-app)
 - [REST Country API](https://github.com/sqle157/rest-countries-api)
+- [Designo Multi Page](https://github.com/sqle157/designo-multi-page)
 - [Social Media Dashboard](https://github.com/sqle157/social-media-dashboard)
 - [Ecommerce Product Page](https://github.com/sqle157/ecommerce-product-page)
 - [Tip Calculator App](https://github.com/sqle157/tip-calculator-app)
