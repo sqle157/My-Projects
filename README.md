@@ -1,11 +1,11 @@
 # My Projects
 
-Below is the list of my completed side projects, click on the link to navigate to the selected project's github repo
+Below is the list of my completed side projects (mostly from Frontend Mentor), click on the link to navigate to the selected project's github repo
 
 - [MERN Ecommerce Website](https://github.com/sqle157/mern-ecommerce-website)
+- [Designo Multi Page](https://github.com/sqle157/designo-multi-page)
 - [MERN Note App](https://github.com/sqle157/mern-note-app)
 - [REST Country API](https://github.com/sqle157/rest-countries-api)
-- [Designo Multi Page](https://github.com/sqle157/designo-multi-page)
 - [Social Media Dashboard](https://github.com/sqle157/social-media-dashboard)
 - [Ecommerce Product Page](https://github.com/sqle157/ecommerce-product-page)
 - [Tip Calculator App](https://github.com/sqle157/tip-calculator-app)
@@ -19,7 +19,6 @@ Below is the list of my completed side projects, click on the link to navigate t
 - [Time Tracking Dashboard](https://github.com/sqle157/time-tracking-dashboard)
 - [Testimonials Grid Section](https://github.com/sqle157/testimonials-grid-section)
 - [3 Columns Preview Card Component](https://github.com/sqle157/preview-card-component)
-- [Advice Generator App](https://github.com/sqle157/advice-generator-app)
 - [Art Gallery Website](https://github.com/sqle157/art-gallery)
 - [Crowdfunding Product Page](https://github.com/sqle157/crowdfunding-product-page)
 - [Interactive Rating Component](https://github.com/sqle157/interactive-rating-component)
