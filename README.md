@@ -1,8 +1,7 @@
 # My Projects
 
-Below is the list of my completed side projects (mostly from Frontend Mentor), click on the link to navigate to the selected project's github repo
+Below is the list of my completed side projects, click on the link to navigate to the selected project's github repo
 
-**Advanced**
 - [MERN Ecommerce Website](https://github.com/sqle157/mern-ecommerce-website)
 - [Designo Multi Page](https://github.com/sqle157/designo-multi-page)
 - [MERN Note App](https://github.com/sqle157/mern-note-app)
