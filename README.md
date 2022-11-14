@@ -2,9 +2,12 @@
 
 Below is the list of my completed side projects (mostly from Frontend Mentor), click on the link to navigate to the selected project's github repo
 
+**Advanced**
 - [MERN Ecommerce Website](https://github.com/sqle157/mern-ecommerce-website)
 - [Designo Multi Page](https://github.com/sqle157/designo-multi-page)
 - [MERN Note App](https://github.com/sqle157/mern-note-app)
+- [Support Desk](https://github.com/sqle157/support-desk)
+- [House Market Place](https://github.com/sqle157/house-marketplace)
 - [REST Country API](https://github.com/sqle157/rest-countries-api)
 - [Social Media Dashboard](https://github.com/sqle157/social-media-dashboard)
 - [Ecommerce Product Page](https://github.com/sqle157/ecommerce-product-page)
@@ -14,8 +17,6 @@ Below is the list of my completed side projects (mostly from Frontend Mentor), c
 - [Advice Generator App](https://github.com/sqle157/advice-generator-app)
 - [Sunnyside Landing Page](https://github.com/sqle157/sunnyside-landing-page)
 - [Github User Search App](https://github.com/sqle157/github-user-search-app)
-- [Support Desk](https://github.com/sqle157/support-desk)
-- [House Market Place](https://github.com/sqle157/house-marketplace)
 - [Time Tracking Dashboard](https://github.com/sqle157/time-tracking-dashboard)
 - [Testimonials Grid Section](https://github.com/sqle157/testimonials-grid-section)
 - [3 Columns Preview Card Component](https://github.com/sqle157/preview-card-component)
